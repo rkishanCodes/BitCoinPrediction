@@ -1,5 +1,3 @@
-Your updated README.md file looks great! Here’s a slightly refined version with consistent formatting and flow:
-
 # Bitcoin Price Prediction using LSTM
 
 This project is a **Bitcoin Price Prediction** web application built with **Streamlit**, utilizing an LSTM model to predict Bitcoin prices. The model is trained using historical data fetched from the Yahoo Finance API. This application showcases both the actual historical prices and predicted future prices of Bitcoin.
