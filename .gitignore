@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# Logs and data
+*.log
+*.csv
+*.dat
+*.sqlite
+*.h5
+*.db
+
+# Environment variables
+.env
+.venv
+
+# macOS
+.DS_Store
+
+
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+
+
+# venv folder for virtual environment
+venv/
+
+# pyenv
+.python-version
+
